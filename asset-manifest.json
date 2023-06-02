@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_Restaurant_App/static/css/main.dc95181d.css",
+    "main.js": "/React_Restaurant_App/static/js/main.9313349d.js",
+    "static/js/787.aab8bd84.chunk.js": "/React_Restaurant_App/static/js/787.aab8bd84.chunk.js",
+    "static/media/Margherita.jpg": "/React_Restaurant_App/static/media/Margherita.eef742a7259b800fac7f.jpg",
+    "static/media/multiplepizzas.jpg": "/React_Restaurant_App/static/media/multiplepizzas.78222cea0074f2ccec61.jpg",
+    "static/media/pizzaleft.jpg": "/React_Restaurant_App/static/media/pizzaleft.0e9f0b87aab6e56ea3b3.jpg",
+    "static/media/bg3.jpg": "/React_Restaurant_App/static/media/bg3.fb6d47fe20e14a94948c.jpg",
+    "static/media/daiya.jpg": "/React_Restaurant_App/static/media/daiya.c6280a7a306ef1742fb6.jpg",
+    "static/media/bg2.webp": "/React_Restaurant_App/static/media/bg2.fefd080a9c4a717afb4e.webp",
+    "static/media/vegan.jpg": "/React_Restaurant_App/static/media/vegan.afbaa5b528bcdb457db1.jpg",
+    "static/media/pepper.jpg": "/React_Restaurant_App/static/media/pepper.09f8cf733df053a24382.jpg",
+    "static/media/pizza-logo.jpg": "/React_Restaurant_App/static/media/pizza-logo.8e2086e0776befbf7e30.jpg",
+    "static/media/Mozzarella.jpg": "/React_Restaurant_App/static/media/Mozzarella.70574a8ae22ad938a091.jpg",
+    "static/media/olives.jpg": "/React_Restaurant_App/static/media/olives.80b733d156bd0d1ee85d.jpg",
+    "index.html": "/React_Restaurant_App/index.html",
+    "main.dc95181d.css.map": "/React_Restaurant_App/static/css/main.dc95181d.css.map",
+    "main.9313349d.js.map": "/React_Restaurant_App/static/js/main.9313349d.js.map",
+    "787.aab8bd84.chunk.js.map": "/React_Restaurant_App/static/js/787.aab8bd84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc95181d.css",
+    "static/js/main.9313349d.js"
+  ]
+}
